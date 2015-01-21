@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## Just a little comment to test push
+## Just a little comment to update a test push
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {

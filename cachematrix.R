@@ -3,7 +3,7 @@
 ## to set a matrix (squared), calculate and cache its inverse
 ## I've used the same structure of the example but
 ## removing (or commenting) a couple lines that are not
-## necesary for the procedure and changing variable names
+## necessary for the procedure and changing variable names.
 
 makeCacheMatrix <- function(mat = matrix()) {
   invmat <- NULL #Initializes the invmat variable as null

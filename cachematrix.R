@@ -1,8 +1,9 @@
+## makeCacheMatrix and cacheSolve
 ## These are the functions that you can use in order
 ## to set a matrix (squared), calculate and cache its inverse
 ## I've used the same structure of the example but
 ## removing (or commenting) a couple lines that are not
-## necesarry for the procedure and changing variable names
+## necesary for the procedure and changing variable names
 
 makeCacheMatrix <- function(mat = matrix()) {
   invmat <- NULL #Initializes the invmat variable as null
